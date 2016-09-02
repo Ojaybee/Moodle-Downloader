@@ -109,4 +109,4 @@ for course in courses:
             pdfFile.write(webFile.read())
             webFile.close()
             pdfFile.close()
-print "Update Complete and I changed this and again"
+print "Update Complete and I changed this and again fucking git"
