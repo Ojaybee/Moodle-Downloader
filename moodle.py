@@ -109,4 +109,4 @@ for course in courses:
             pdfFile.write(webFile.read())
             webFile.close()
             pdfFile.close()
-print "Update Complete"
+print "Update Complete and I changed this"
